@@ -1,13 +1,13 @@
-.header-container {
+.header-container{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background: rgba(229, 84, 115, 0.10);
-    margin: 50px auto;
-    width: 80%;
-
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
 }
-
+.header-text{
+    
+}
 .heading {
     font-size: 55px;
     font-weight: bold;
@@ -132,5 +132,5 @@ background: rgba(167, 33, 98, 0.15);
 }
 .box1{
     border-radius: 300px 300px 0px 0px;
-background: rgba(167, 33, 98, 0.15);
+    background: rgba(167, 33, 98, 0.15);
 }
