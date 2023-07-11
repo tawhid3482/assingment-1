@@ -1,0 +1,20 @@
+* {}
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: rgba(229, 84, 115, 0.10);
+    color: black;
+
+}
+
+.header-picture {
+    width: 350px;
+}
+
+.flower-header {
+    font-size: 60px;
+    font-weight: 800;
+    
+}
