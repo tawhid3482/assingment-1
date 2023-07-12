@@ -74,8 +74,8 @@
 }
 
 .box-img {
-    width: 220px;
-    height: 220px;
+    width: 250px;
+    height: 250px;
 
 }
 
@@ -99,7 +99,8 @@
     height: 350px;
     margin: 10px auto;
     display: flex;
-    justify-content:
+    justify-content: center;
+    align-items: center;
 
 }
 
